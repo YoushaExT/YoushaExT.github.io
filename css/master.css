@@ -33,6 +33,10 @@
   {
     background-color: white;
   } */
+  .nav-item
+  {
+    margin:.5rem 0;border-bottom:1px solid #DDDDDD;
+  }
 }
 @media only screen and (min-width: 992px) {
   .rollerimg > img
@@ -43,6 +47,8 @@
 
 /* .navbar-nav > li > .dropdown-menu { background-color: #FF0000; } */
 
+/* dropdown divider:
+height:0;margin:.5rem 0;overflow:hidden;border-top:1px solid #e9ecef */
 
 /* for alligning drowndown top to the right: */
 @media only screen and (max-width: 991px) and (min-width: 695px){
