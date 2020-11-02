@@ -1,13 +1,13 @@
 .topbody
 {
-  /*
+
   background: rgb(255,255,255);
   background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(214,211,206,1) 50%);
-  grey-white
+   /* grey-white
   background gradient color for the top
-  */
+
   background: rgb(255,255,255);
-  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(222,207,181,1) 50%);
+  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(222,207,181,1) 50%); */
 }
 .brownbar
 {
@@ -32,20 +32,29 @@
 .textdesc
 {
   margin-top: 10%;
+  color: #666666;
 }
 
 .rollerimg
 {
   margin-top: 5%;
 }
-
+h1
+{
+  color: black;
+  font-family:"proxima-nova","helvetica neue",arial,helvetica
+  font-size:1.4em;font-weight:bold;line-height:1.2;
+}
 h2
 {
   color: #666666;
+  font-family:"proxima-nova","helvetica neue",arial,helvetica
+  font-size:1.4em;font-weight:bold;line-height:1.2;
 }
 
 .nitem
 {
   font-size: 18px;
+  font-family: sans-serif;
   color: #836853
 }
