@@ -23,12 +23,31 @@
   margin-top: 10px;
 }
 
-/* on smaller screens: */
-/* @media only screen and (max-width: 991px) {
-  .textdesc {
-    margin: 50px;
+/* roller variable size depending on screen: */
+@media only screen and (max-width: 991px) {
+  .rollerimg > img
+  {
+    width: 70%;
   }
-} */
+}
+@media only screen and (min-width: 992px) {
+  .rollerimg > img
+  {
+    width: 100%;
+  }
+}
+
+/* .navbar-nav > li > .dropdown-menu { background-color: #FF0000; } */
+
+
+/* for alligning drowndown top to the right: */
+@media only screen and (max-width: 991px) and (min-width: 695px){
+
+  .navbar-nav{
+    text-align:right!important
+  }
+}
+
 .textdesc
 {
   /* margin-top: 20%; */
