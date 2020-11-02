@@ -24,20 +24,20 @@
 }
 
 /* on smaller screens: */
-@media only screen and (max-width: 991px) {
+/* @media only screen and (max-width: 991px) {
   .textdesc {
     margin: 50px;
   }
-}
+} */
 .textdesc
 {
-  margin-top: 10%;
+  /* margin-top: 20%; */
   color: #666666;
 }
 
 .rollerimg
 {
-  margin-top: 5%;
+  /* margin-top: 5%; */
 }
 h1
 {
