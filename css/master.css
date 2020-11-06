@@ -1,5 +1,11 @@
 /* sm:576px md:768px lg:992px xl:1200px */
 /* whitespace fix */
+/* #2b6698 button color  #61a0fe after hover*/
+
+.btn-primary{color:#fff;background-color:#2b6698;border-color:#2b6698}
+.btn-primary:hover{color:#fff;background-color:#61a0fe;border-color:#61a0fe}
+.btn-primary.focus,.btn-primary:focus{color:#fff;background-color:#61a0fe;border-color:#61a0fe;box-shadow:0 0 0 .2rem rgba(38,143,255,.5)}
+
 html,body
 {
     width: 100%;
@@ -129,3 +135,9 @@ h2
   color:red;
 
 }
+
+
+/* .btn-primary{color:#fff;background-color:#007bff;border-color:#007bff}
+.btn-primary:hover{color:#fff;background-color:#0069d9;border-color:#0062cc}
+.btn-primary.focus,
+.btn-primary:focus{color:#fff;background-color:#0069d9;border-color:#0062cc;box-shadow:0 0 0 .2rem rgba(38,143,255,.5)} */
