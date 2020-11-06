@@ -40,6 +40,10 @@ html,body
   {
     width: 70%;
   }
+  .logo > img
+  {
+    width: 80%;
+  }
   /* .navbar-nav
   {
     background-color: white;
@@ -56,6 +60,13 @@ html,body
   }
 }
 
+/* to ensure the logo is not too small on medium screens */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .logo > img
+  {
+    width: 120%;
+  }
+}
 /* .navbar-nav > li > .dropdown-menu { background-color: #FF0000; } */
 
 /* dropdown divider:
