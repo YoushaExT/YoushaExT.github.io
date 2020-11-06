@@ -1,11 +1,16 @@
 /* sm:576px md:768px lg:992px xl:1200px */
 /* whitespace fix */
 /* #2b6698 button color  #61a0fe after hover*/
+/* button-secondary #c5b6aa hover #a18469 */
 	/* rgb(246, 244, 242) #f6f4f2 greybackground */
 
 .btn-primary{color:#fff;background-color:#2b6698;border-color:#2b6698}
 .btn-primary:hover{color:#fff;background-color:#61a0fe;border-color:#61a0fe}
 .btn-primary.focus,.btn-primary:focus{color:#fff;background-color:#61a0fe;border-color:#61a0fe;box-shadow:0 0 0 .2rem rgba(38,143,255,.5)}
+
+.btn-secondary{color:#fff;background-color:#c5b6aa;border-color:#c5b6aa}
+.btn-secondary:hover{color:#fff;background-color:#a18469;border-color:#a18469}
+.btn-secondary.focus,.secondary:focus{color:#fff;background-color:#a18469;border-color:#a18469;box-shadow:0 0 0 .2rem rgba(38,143,255,.5)}
 
 html,body
 {
@@ -180,6 +185,14 @@ h3
 
 /* margin:1em auto 0 auto;padding-top:1em; */
 
+.btn-secondary
+{
+  font-family:"proxima-nova","helvetica neue",arial,helvetica;
+
+  font-size:1.1em;line-height:1em;margin:0 0 .5em 0;
+  font-weight:bold;
+  text-align: center;
+}
 
 
 /* .btn-primary{color:#fff;background-color:#007bff;border-color:#007bff}
