@@ -155,6 +155,13 @@ h3
   text-align: center;
 }
 
+ /* to undo center align for footer */
+.botbody h3
+{
+  text-align: left;
+  font-size: 1.2em;
+}
+
 .nitem
 {
   font-size: 18px;
@@ -195,6 +202,27 @@ h3
   font-size:1.1em;line-height:1em;margin:0 0 .5em 0;
   font-weight:bold;
   text-align: center;
+}
+
+.footerlist
+{
+  font-family:"proxima-nova","helvetica neue",arial,helvetica;
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: #999999;
+
+}
+.botbody a
+{
+  color: #999999;
+}
+
+.botbody li
+{
+  margin-top: 0.75rem !important;
 }
 
 
