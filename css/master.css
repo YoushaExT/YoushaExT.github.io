@@ -35,7 +35,10 @@ html,body
 }
 .body3
 {
-
+  background: rgb(246, 244, 242);
+}
+.botbody
+{
   background: rgb(246, 244, 242);
 }
 .brownbar
