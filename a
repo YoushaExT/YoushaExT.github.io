@@ -1,0 +1,95 @@
+[33mcommit ea35537dcfc9f6d6ebba353525591c5df74c9dea[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Wed Nov 4 00:57:59 2020 +0500
+
+    add clients logo desc
+
+[33mcommit 46c178bb6f389c4b79fa2fc4f3ab9a2cc1f9e2e3[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Tue Nov 3 23:43:06 2020 +0500
+
+    renames etc
+
+[33mcommit f2bb0162a03e199e138f40093ab8b392634e19cc[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Tue Nov 3 04:20:44 2020 +0500
+
+    roller margin
+
+[33mcommit 2c99257d6f6198b0923502f6409401652e888ae0[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Tue Nov 3 04:04:43 2020 +0500
+
+    add dropdowns
+
+[33mcommit 7efa646c1dbf25406e4f6541f6026500d992a30d[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Tue Nov 3 03:26:49 2020 +0500
+
+    remove background nav
+
+[33mcommit 0aa6dd28a05d7a82570806f7516f09c61cf2f836[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Tue Nov 3 03:21:13 2020 +0500
+
+    add float-right media
+
+[33mcommit ce67abae804cc0572b9ed211613faadbae145e27[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Tue Nov 3 03:02:10 2020 +0500
+
+    add some media queries
+
+[33mcommit 44bbd6cba87195ae85fdc7bc45b487599b98c015[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Tue Nov 3 02:13:35 2020 +0500
+
+    alligned the navbar
+
+[33mcommit 876d3fdc7b03dbf1619b70d7ca790e91b29bfa04[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Tue Nov 3 00:59:54 2020 +0500
+
+    Add margin 2
+
+[33mcommit 27788c489223f4b51fdbd4c96bb8685dfb2dde1f[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Tue Nov 3 00:43:02 2020 +0500
+
+    Add margin and font
+
+[33mcommit 661327dd24564be9ca95bae3a718097fa363e3db[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Sun Nov 1 06:46:52 2020 +0500
+
+    add margin mx-2
+
+[33mcommit e56ba31a9a0848a1a8225319dbf8f8c296fe4416[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Sun Nov 1 06:36:54 2020 +0500
+
+    add navbar template
+
+[33mcommit 9fedc1ec0386ab9b82e24b2953fd0be79e41c756[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Sun Nov 1 03:58:55 2020 +0500
+
+    add image folder
+
+[33mcommit 1034322f0ad02eb6b28baec757386196ab7c2cff[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Sun Nov 1 03:58:15 2020 +0500
+
+    add responsiveness logo new desc and some images
+
+[33mcommit c7f8bfb911b689aca9d0f76d072553f9127a42c9[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Sun Nov 1 01:48:21 2020 +0500
+
+    Add master.css title and desc
+
+[33mcommit 9437de9a76e7a419e3f49a20b9b0f0e3fd680003[m
+Author: Youshaext <yousharunescape@yahoo.com>
+Date:   Sat Oct 31 21:33:14 2020 +0500
+
+    first commit
