@@ -1,3 +1,4 @@
+/* sm:576px md:768px lg:992px xl:1200px */
 /* whitespace fix */
 html,body
 {
@@ -64,7 +65,14 @@ html,body
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   .logo > img
   {
-    width: 120%;
+    width: 110%;
+  }
+}
+/* to ensure logos are not too large on big screens */
+@media only screen and (min-width: 1200px) {
+  .logo > img
+  {
+    width: 80%;
   }
 }
 /* .navbar-nav > li > .dropdown-menu { background-color: #FF0000; } */
